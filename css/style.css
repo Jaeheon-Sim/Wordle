@@ -1,0 +1,10 @@
+@import "input.css";
+@import "title.css";
+@import "keyboard.css";
+
+body{
+    display: block;
+    background-color: black;
+    color: white;
+    margin: 0px;
+}

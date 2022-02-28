@@ -1,0 +1,19 @@
+.title-line{ 
+    border-bottom: 0.5px solid white;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    font-weight: bold;
+}
+.title-line span{
+    margin: 10px;
+}
+.title-line span:nth-child(2){
+    font-style: italic;
+}
+.title-line i{
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 25px;
+}
