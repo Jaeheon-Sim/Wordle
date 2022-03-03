@@ -1,17 +1,18 @@
-input{
-    height:  50px;
-    width:  50px;
-    text-align: center;
-    font-size: 40px;
-    margin: 3px;
-    background-color: transparent;
-    border-color: gray;
-    color: white;
+input {
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  font-size: 40px;
+  margin: 3px;
+  background-color: transparent;
+  border-color: gray;
+  color: white;
+  disabled: true;
 }
-.input-div{
-    display: flex;
-    justify-content: center;
+.input-div {
+  display: flex;
+  justify-content: center;
 }
-#last-input-div{
-    margin-bottom: 30px;
+#last-input-div {
+  margin-bottom: 30px;
 }
