@@ -2,9 +2,15 @@
 @import "title.css";
 @import "keyboard.css";
 
-body{
-    display: block;
-    background-color: black;
-    color: white;
-    margin: 0px;
+body {
+  display: block;
+  background-color: black;
+  color: white;
+  margin: 0px;
+}
+
+a {
+  color: white;
+  border-bottom: none;
+  text-decoration: none;
 }
